@@ -1,0 +1,5 @@
+insert into phoneDetails values
+
+(null, "Samsung M11", 'MXUI08CO', 'Samsung', 'Exynos 8800', '4G connectivity, Wifi - 5, Bluetooth - 5.0', '4GB', '64GB', '32MP back and 8MP front', 'polycarbonate', 'Resolution :- 1080*2404, type - Amoled, size :- 6.41', 'USB type C', 'Single', 'One UI', 21000),
+
+(null, "OnePlus 10", 'PG20U2C0', 'Oneplus', 'Snapdragon 888', '5G connectivity, Wifi - 6, Bluetooth - 5.4', '12GB', '256GB', '108MP back and 16MP front', 'Glass', 'Resolution :- 1440*2404, type - Amoled, size :- 6.39', 'USB type C', 'Stereo', 'Stock UI', 50000);
